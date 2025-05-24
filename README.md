@@ -1,4 +1,33 @@
-Create a simple Rock Paper Scissors game that allows users to play against the computer. The game should
-have a user-friendly interface, display the game rules, and keep track of the score.
+# 🎮 Rock Paper Scissors
 
-Technology Used: HTML, CSS, JavaScript
+A fun and interactive Rock 🪨 Paper 📄 Scissors ✂️ game to play against the computer!
+
+---
+
+## 💻 Technologies Used
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+
+---
+
+## 📋 Features
+- 👤 Play against the computer
+- 📖 Clear game rules
+- 🧮 Live score tracking
+- 🖼️ User-friendly interface
+
+---
+
+## 📜 How to Play
+1. Choose Rock 🪨, Paper 📄, or Scissors ✂️
+2. Computer makes a random choice
+3. 🏆 Winner is decided based on the rules:
+   - Rock 🪨 beats Scissors ✂️  
+   - Scissors ✂️ beats Paper 📄  
+   - Paper 📄 beats Rock 🪨
+
+---
+
+## 👤 Author
+Made with ❤️ by sazid 
